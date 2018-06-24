@@ -76,7 +76,7 @@ The following videos are real-time lane detections on white lane detection, yell
 
 ##### Lane Detection White Lane
 
-[![Lane Detection White Lane](http://img.youtube.com/vi/Ju52FIHjf4A/0.jpg)](http://www.youtube.com/watch?v=Ju52FIHjf4A "Lane Detection White Lane")
+[![Right White Lane](http://img.youtube.com/vi/r8RqwktMa7o/0.jpg)](http://www.youtube.com/watch?v=r8RqwktMa7o "Right White Lane")
 
 ##### Lane Detection Yellow Lane
 
