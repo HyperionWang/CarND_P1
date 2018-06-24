@@ -74,15 +74,15 @@ Depends on the image source, the final image with line detection drawing is save
 
 The following videos are real-time lane detections on white lane detection, yellow lane detections, and challenge lane detection with shadow and curvature.
 
-##### Lane Detection White Lane
+##### Video: Lane Detection White Lane
 
 [![Right White Lane](http://img.youtube.com/vi/r8RqwktMa7o/0.jpg)](http://www.youtube.com/watch?v=r8RqwktMa7o "Right White Lane")
 
-##### Lane Detection Yellow Lane
+##### Video: Lane Detection Yellow Lane
 
 [![Lane Detection Yellow Lane](http://img.youtube.com/vi/cVyy7CjhWiE/0.jpg)](http://www.youtube.com/watch?v=cVyy7CjhWiE "Lane Detection Yellow Lane")
 
-##### Lane Detection on Lane with Shadow
+##### Video: Lane Detection on Lane with Shadow
 
 [![Lane Detection with Shadow](http://img.youtube.com/vi/Ju52FIHjf4A/0.jpg)](http://www.youtube.com/watch?v=Ju52FIHjf4A "Lane Detection with Shadow")
 
